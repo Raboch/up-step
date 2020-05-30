@@ -1,0 +1,7 @@
+C:\_UpStep_\AI_LG\AI_LG\bin\Debug\AI_LG.exe.config
+C:\_UpStep_\AI_LG\AI_LG\bin\Debug\AI_LG.exe
+C:\_UpStep_\AI_LG\AI_LG\bin\Debug\AI_LG.pdb
+C:\_UpStep_\AI_LG\AI_LG\obj\Debug\AI_LG.csprojAssemblyReference.cache
+C:\_UpStep_\AI_LG\AI_LG\obj\Debug\AI_LG.csproj.CoreCompileInputs.cache
+C:\_UpStep_\AI_LG\AI_LG\obj\Debug\AI_LG.exe
+C:\_UpStep_\AI_LG\AI_LG\obj\Debug\AI_LG.pdb
